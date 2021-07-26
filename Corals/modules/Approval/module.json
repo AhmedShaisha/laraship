@@ -1,0 +1,16 @@
+{
+  "code": "corals-approval",
+  "name": "Approval",
+  "author": "Wafa",
+  "type": "module",
+  "description": "Approve request for  product to be ready for sale",
+  "namespace": "Corals\\Modules\\Approval\\",
+  "provider": "ApprovalServiceProvider",
+  "version": "1.0",
+  "load_order": "0",
+  "folder": "Approval",
+  "autoload": "psr-4",
+  "icon": "fa fa-clone",
+  "require": {
+  }
+}

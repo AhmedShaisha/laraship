@@ -1,0 +1,19 @@
+{
+  "code": "corals-payment-paytabs",
+  "name": "Paytabs Payment Gateway",
+  "author": "Zainab",
+  "type": "payment",
+  "description": "Payment Gateway",
+  "namespace": "Corals\\Modules\\Payment\\Paytabs",
+  "version": "1",
+  "folder": "Paytabs",
+  "autoload": "psr-4",
+  "icon": "fa fa-cc-paytabs",
+  "require": {
+    "corals-payment": "^4.0"
+  },
+  "supported_platforms": [
+
+    "Marketplace"
+  ]
+}

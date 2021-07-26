@@ -1,0 +1,16 @@
+{
+  "code": "corals-quality",
+  "name": "Quality Manager",
+  "author": "Wafa",
+  "type": "module",
+  "description": "Quality check up for a product before shipping to the customer",
+  "namespace": "Corals\\Modules\\Quality\\",
+  "provider": "QualityServiceProvider",
+  "version": "1.0",
+  "load_order": "0",
+  "folder": "Quality",
+  "autoload": "psr-4",
+  "icon": "fas fa-badge-check",
+  "require": {
+  }
+}
